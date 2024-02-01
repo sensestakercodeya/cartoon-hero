@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    background-color: #B352E7;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h1, h2{
+    font-family: 'Press Start 2P', system-ui;
+}
+header h1{
+    color: #6F11A0;
+    font-size: 50px;
+}
+header h2{
+    color: floralwhite;
+    font-size: 30px;
+}
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid #FFD100;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 30px;
+    color: #6F11A0;
+}
+a{
+    color: #6F11A0;
+}
+a:hover{
+    color: #FFD100;
+    background-color: #6F11A0;
+}
+footer{
+    background-color: #B352E7;
+    text-align: center;
+    color: #FFD100;
+    padding: 25px;
+}
+footer p{
+    margin: 0;
+}
+footer a{
+    color: white;
+}
+footer a{
+    opacity: .75;
+    background-color: transparent;
+}
+p.caption{
+    color: #C873F6;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 0;
+}
+body{
+    background-color: #E8D2F3;
+}
+
